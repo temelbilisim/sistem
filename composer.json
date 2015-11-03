@@ -1,0 +1,11 @@
+{
+    "name": "temelbilisim/sistem",
+    "description": "Temel Bilisim - Sistem",
+    "authors": [
+        {
+            "name": "Temel Bilisim",
+            "email": "hello@temelbilisim.com"
+        }
+    ],
+    "require": {}
+}

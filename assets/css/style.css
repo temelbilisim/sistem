@@ -1,0 +1,22 @@
+body > header {
+    padding: 10px 0;
+    background: #efefef;
+}
+
+body > .navbar {
+    margin-bottom: 0;
+}
+
+body > nav .navbar-collapse {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+body > footer {
+    background: #efefef;
+    padding: 10px 0;
+}
+
+.slider {
+    background: #efefef;
+}
